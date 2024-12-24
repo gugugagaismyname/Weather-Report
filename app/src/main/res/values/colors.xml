@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splash_background">#9900FF</color> <!-- Фіолетовий -->
+    <color name="splash_icon_background">#FFFFFF</color> <!-- Білий -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="weather_card_bg">#6603A9F4</color>
+    <color name="blue_bg">#B0DBFF</color>
+    <color name="purple_bg">#9900FF</color>
+
+</resources>

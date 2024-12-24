@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.App.Start" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowSplashScreenBackground">#9900FF</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/icon_splash</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">#9900FF</item>
+        <item name="postSplashScreenTheme">@style/Theme.WeatherReport</item>
+    </style>
+</resources>
